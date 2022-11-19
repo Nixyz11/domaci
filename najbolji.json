@@ -1,0 +1,27 @@
+[
+  {
+    "vlasnikID": 1,
+    "ime": "Mitar",
+    "prezime": "Miric"
+  },
+  {
+    "vlasnikID": 2,
+    "ime": "Miki",
+    "prezime": "Kotrljanovic"
+  },
+  {
+    "vlasnikID": 3,
+    "ime": "Zorana",
+    "prezime": "Zoranovic"
+  },
+  {
+    "vlasnikID": 4,
+    "ime": "Ermano",
+    "prezime": "Petric"
+  },
+  {
+    "vlasnikID": 9,
+    "ime": "Laza",
+    "prezime": "Lizard"
+  }
+]
