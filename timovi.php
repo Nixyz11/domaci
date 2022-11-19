@@ -32,7 +32,7 @@
   }
 
   input{
-     background-color: #FFCCAA;
+     background-color: skyblue;
      color: black;
   }
 
