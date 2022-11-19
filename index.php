@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles.css" />
-    <title>Enciklopedija navijanja</title>
+    <title>Enciklopedija navijanja by Nikola</title>
 <style>
  a{
     color: black;
@@ -104,7 +104,7 @@
 </style>
   </head>
   <body>
-  <h1>Online enciklopedija o navijanju</h1>
+  <h1>Online enciklopedija o navijanju by NIkola</h1>
   <div>
    <button type="submit" name="vise" id="vise">Saznajte više o fudbalu</button>
    <br/>
