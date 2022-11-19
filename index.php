@@ -11,7 +11,8 @@
     color: black;
     text-decoration: none;
   }
-// prvi commit
+// prvi commit posle initial commit
+// drugi commit posle prvog commit-a.
   body {
 
   font-weight: 10px;
